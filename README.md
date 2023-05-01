@@ -2,10 +2,10 @@
 imma fix this tmr
 ### :smiley_cat: I am a 16 year old student who dabbles in mc modding
 ## By the way here are some of my statistics 🚀
-![K-ov's github stats](https://github-readme-stats.vercel.app/api?username=K-ov&show_icons=true&theme=tokyonight)
+![K-ov's github stats]
+<img src="https://github-readme-stats.vercel.app/api?username=K-ov&show_icons=true&theme=tokyonight&count_private=true">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=K-ov&theme=tokyonight" alt="mystreak"/>
 
-![K-ov's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-ov=tokyonight&layout=compact)
-🌱 I’m currently learning rust and haskell
+🌱 I’m currently learning rust and haskell 
  
